@@ -1,0 +1,507 @@
+
+2004-J-T1 is begin
+g++success
+2004-J-T1 is finish: 10/10
+
+2004-S-T1 is begin
+g++success
+2004-S-T1 is finish: 0/10
+
+2004-J-T2 is begin
+g++success
+2004-J-T2 is finish: 2/10
+
+2004-S-T2 is begin
+g++success
+2004-S-T2 is finish: 0/10
+
+2004-J-T3 is begin
+g++success
+2004-J-T3 is finish: 0/10
+
+2004-S-T3 is begin
+g++success
+2004-S-T3 is finish: 0/10
+
+2004-J-T4 is begin
+g++success
+2004-J-T4 is finish: 0/10
+
+2004-S-T4 is begin
+g++success
+2004-S-T4 is finish: 0/10
+
+2005-J-T1 is begin
+g++success
+2005-J-T1 is finish: 10/10
+
+2005-S-T1 is begin
+g++success
+2005-S-T1 is finish: 0/10
+
+2005-J-T2 is begin
+g++success
+2005-J-T2 is finish: 2/10
+
+2005-S-T2 is begin
+2005-S-T2 is finish: 0/10
+
+2005-J-T3 is begin
+g++success
+2005-J-T3 is finish: 1/10
+
+2005-S-T3 is begin
+g++success
+2005-S-T3 is finish: 0/10
+
+2005-J-T4 is begin
+2005-J-T4 is finish: 0/10
+
+2005-S-T4 is begin
+2005-S-T4 is finish: 0/10
+
+2006-J-T1 is begin
+g++success
+2006-J-T1 is finish: 0/10
+
+2006-S-T1 is begin
+g++success
+2006-S-T1 is finish: 0/10
+
+2006-J-T2 is begin
+2006-J-T2 is finish: 0/10
+
+2006-S-T2 is begin
+2006-S-T2 is finish: 0/10
+
+2006-J-T3 is begin
+g++success
+2006-J-T3 is finish: 10/10
+
+2006-S-T3 is begin
+2006-S-T3 is finish: 0/10
+
+2006-J-T4 is begin
+g++success
+2006-J-T4 is finish: 0/10
+
+2006-S-T4 is begin
+g++success
+2006-S-T4 is finish: 0/10
+
+2007-J-T1 is begin
+g++success
+2007-J-T1 is finish: 10/10
+
+2007-S-T1 is begin
+g++success
+2007-S-T1 is finish: 0/10
+
+2007-J-T2 is begin
+g++success
+2007-J-T2 is finish: 0/10
+
+2007-S-T2 is begin
+g++success
+2007-S-T2 is finish: 6/10
+
+2007-J-T3 is begin
+g++success
+2007-J-T3 is finish: 5/10
+
+2007-S-T3 is begin
+g++success
+2007-S-T3 is finish: 1/10
+
+2007-J-T4 is begin
+g++success
+2007-J-T4 is finish: 0/10
+
+2007-S-T4 is begin
+2007-S-T4 is finish: 0/10
+
+2008-J-T1 is begin
+g++success
+2008-J-T1 is finish: 1/10
+
+2008-S-T1 is begin
+g++success
+2008-S-T1 is finish: 10/10
+
+2008-J-T2 is begin
+g++success
+2008-J-T2 is finish: 0/10
+
+2008-S-T2 is begin
+g++success
+2008-S-T2 is finish: 0/10
+
+2008-J-T3 is begin
+g++success
+2008-J-T3 is finish: 0/10
+
+2008-S-T3 is begin
+g++success
+2008-S-T3 is finish: 0/10
+
+2008-J-T4 is begin
+g++success
+2008-J-T4 is finish: 0/10
+
+2008-S-T4 is begin
+g++success
+2008-S-T4 is finish: 1/10
+
+2009-J-T1 is begin
+g++success
+2009-J-T1 is finish: 0/10
+
+2009-S-T1 is begin
+g++success
+2009-S-T1 is finish: 9/10
+
+2009-J-T2 is begin
+g++success
+2009-J-T2 is finish: 10/10
+
+2009-S-T2 is begin
+g++success
+2009-S-T2 is finish: 1/10
+
+2009-J-T3 is begin
+g++success
+2009-J-T3 is finish: 1/10
+
+2009-S-T3 is begin
+g++success
+2009-S-T3 is finish: 0/10
+
+2009-J-T4 is begin
+g++success
+2009-J-T4 is finish: 1/10
+
+2009-S-T4 is begin
+2009-S-T4 is finish: 0/10
+
+2010-J-T1 is begin
+g++success
+2010-J-T1 is finish: 0/10
+
+2010-S-T1 is begin
+g++success
+2010-S-T1 is finish: 0/10
+
+2010-J-T2 is begin
+g++success
+2010-J-T2 is finish: 0/10
+
+2010-S-T2 is begin
+g++success
+2010-S-T2 is finish: 0/10
+
+2010-J-T3 is begin
+g++success
+2010-J-T3 is finish: 0/10
+
+2010-S-T3 is begin
+g++success
+2010-S-T3 is finish: 0/10
+
+2010-J-T4 is begin
+2010-J-T4 is finish: 0/10
+
+2010-S-T4 is begin
+g++success
+2010-S-T4 is finish: 0/10
+
+2011-J-T1 is begin
+g++success
+2011-J-T1 is finish: 0/10
+
+2011-J-T2 is begin
+g++success
+2011-J-T2 is finish: 0/10
+
+2011-J-T3 is begin
+g++success
+2011-J-T3 is finish: 0/10
+
+2011-J-T4 is begin
+g++success
+2011-J-T4 is finish: 0/10
+
+2011-S-D1T1 is begin
+g++success
+2011-S-D1T1 is finish: 1/10
+
+2011-S-D1T2 is begin
+2011-S-D1T2 is finish: 0/10
+
+2011-S-D1T3 is begin
+2011-S-D1T3 is finish: 0/10
+
+2011-S-D2T1 is begin
+g++success
+2011-S-D2T1 is finish: 2/10
+
+2011-S-D2T2 is begin
+g++success
+2011-S-D2T2 is finish: 0/10
+
+2011-S-D2T3 is begin
+g++success
+2011-S-D2T3 is finish: 0/10
+
+2012-J-T1 is begin
+g++success
+2012-J-T1 is finish: 0/10
+
+2012-J-T2 is begin
+2012-J-T2 is finish: 0/10
+
+2012-J-T3 is begin
+g++success
+2012-J-T3 is finish: 0/10
+
+2012-J-T4 is begin
+2012-J-T4 is finish: 0/10
+
+2012-S-D1T1 is begin
+g++success
+2012-S-D1T1 is finish: 0/10
+
+2012-S-D1T2 is begin
+2012-S-D1T2 is finish: 0/10
+
+2012-S-D1T3 is begin
+2012-S-D1T3 is finish: 0/10
+
+2012-S-D2T1 is begin
+g++success
+2012-S-D2T1 is finish: 10/10
+
+2012-S-D2T2 is begin
+g++success
+2012-S-D2T2 is finish: 10/10
+
+2012-S-D2T3 is begin
+2012-S-D2T3 is finish: 0/10
+
+2013-J-T1 is begin
+g++success
+2013-J-T1 is finish: 10/10
+
+2013-J-T2 is begin
+g++success
+2013-J-T2 is finish: 0/10
+
+2013-J-T3 is begin
+g++success
+2013-J-T3 is finish: 0/10
+
+2013-J-T4 is begin
+g++success
+2013-J-T4 is finish: 0/10
+
+2013-S-D1T1 is begin
+g++success
+2013-S-D1T1 is finish: 0/10
+
+2013-S-D1T2 is begin
+g++success
+2013-S-D1T2 is finish: 0/10
+
+2013-S-D1T3 is begin
+g++success
+2013-S-D1T3 is finish: 0/10
+
+2013-S-D2T1 is begin
+g++success
+2013-S-D2T1 is finish: 0/10
+
+2013-S-D2T2 is begin
+g++success
+2013-S-D2T2 is finish: 0/10
+
+2013-S-D2T3 is begin
+g++success
+2013-S-D2T3 is finish: 1/10
+
+2014-J-T1 is begin
+2014-J-T1 is finish: 0/10
+
+2014-J-T2 is begin
+2014-J-T2 is finish: 0/10
+
+2014-J-T3 is begin
+2014-J-T3 is finish: 0/10
+
+2014-J-T4 is begin
+g++success
+2014-J-T4 is finish: 0/10
+
+2014-S-D1T1 is begin
+g++success
+2014-S-D1T1 is finish: 4/10
+
+2014-S-D1T2 is begin
+g++success
+2014-S-D1T2 is finish: 0/10
+
+2014-S-D1T3 is begin
+g++success
+2014-S-D1T3 is finish: 0/10
+
+2014-S-D2T1 is begin
+g++success
+2014-S-D2T1 is finish: 0/10
+
+2014-S-D2T2 is begin
+g++success
+2014-S-D2T2 is finish: 0/10
+
+2014-S-D2T3 is begin
+2014-S-D2T3 is finish: 0/10
+
+2015-J-T1 is begin
+g++success
+2015-J-T1 is finish: 0/10
+
+2015-J-T2 is begin
+g++success
+2015-J-T2 is finish: 10/10
+
+2015-J-T3 is begin
+g++success
+2015-J-T3 is finish: 0/10
+
+2015-J-T4 is begin
+g++success
+2015-J-T4 is finish: 0/10
+
+2015-S-D1T1 is begin
+g++success
+2015-S-D1T1 is finish: 0/10
+
+2015-S-D1T2 is begin
+g++success
+2015-S-D1T2 is finish: 0/10
+
+2015-S-D1T3 is begin
+g++success
+2015-S-D1T3 is finish: 0/10
+
+2015-S-D2T1 is begin
+g++success
+2015-S-D2T1 is finish: 0/10
+
+2015-S-D2T2 is begin
+g++success
+2015-S-D2T2 is finish: 0/10
+
+2015-S-D2T3 is begin
+2015-S-D2T3 is finish: 0/10
+
+2016-J-T1 is begin
+g++success
+2016-J-T1 is finish: 0/10
+
+2016-J-T2 is begin
+g++success
+2016-J-T2 is finish: 0/10
+
+2016-J-T3 is begin
+2016-J-T3 is finish: 0/10
+
+2016-J-T4 is begin
+g++success
+2016-J-T4 is finish: 0/10
+
+2016-S-D1T1 is begin
+g++success
+2016-S-D1T1 is finish: 3/10
+
+2016-S-D1T2 is begin
+2016-S-D1T2 is finish: 0/10
+
+2016-S-D1T3 is begin
+g++success
+2016-S-D1T3 is finish: 0/10
+
+2016-S-D2T1 is begin
+g++success
+2016-S-D2T1 is finish: 4/10
+
+2016-S-D2T2 is begin
+g++success
+2016-S-D2T2 is finish: 0/10
+
+2016-S-D2T3 is begin
+g++success
+2016-S-D2T3 is finish: 0/10
+
+2017-J-T1 is begin
+g++success
+2017-J-T1 is finish: 0/10
+
+2017-J-T2 is begin
+2017-J-T2 is finish: 0/10
+
+2017-J-T3 is begin
+g++success
+2017-J-T3 is finish: 0/10
+
+2017-J-T4 is begin
+2017-J-T4 is finish: 0/10
+
+2017-S-D1T1 is begin
+g++success
+2017-S-D1T1 is finish: 0/10
+
+2017-S-D1T2 is begin
+2017-S-D1T2 is finish: 0/10
+
+2017-S-D1T3 is begin
+2017-S-D1T3 is finish: 0/10
+
+2017-S-D2T1 is begin
+2017-S-D2T1 is finish: 0/10
+
+2017-S-D2T2 is begin
+2017-S-D2T2 is finish: 0/10
+
+2017-S-D2T3 is begin
+2017-S-D2T3 is finish: 0/10
+
+2018-J-T1 is begin
+2018-J-T1 is finish: 0/10
+
+2018-J-T2 is begin
+2018-J-T2 is finish: 0/10
+
+2018-J-T3 is begin
+2018-J-T3 is finish: 0/10
+
+2018-J-T4 is begin
+2018-J-T4 is finish: 0/10
+
+2018-S-D1T1 is begin
+2018-S-D1T1 is finish: 0/10
+
+2018-S-D1T2 is begin
+g++success
+2018-S-D1T2 is finish: 0/10
+
+2018-S-D1T3 is begin
+2018-S-D1T3 is finish: 0/10
+
+2018-S-D2T1 is begin
+g++success
+2018-S-D2T1 is finish: 0/10
+
+2018-S-D2T2 is begin
+g++success
+2018-S-D2T2 is finish: 0/10
+
+2018-S-D2T3 is begin
+2018-S-D2T3 is finish: 0/10

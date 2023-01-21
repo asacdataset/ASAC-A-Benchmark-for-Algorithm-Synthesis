@@ -1,0 +1,33 @@
+
+2017-J-T1 is begin
+g++success
+2017-J-T1 is finish: 10/10
+
+2017-J-T2 is begin
+2017-J-T2 is finish: 0/10
+
+2017-J-T3 is begin
+g++success
+2017-J-T3 is finish: 0/10
+
+2017-J-T4 is begin
+2017-J-T4 is finish: 0/10
+
+2017-S-D1T1 is begin
+g++success
+2017-S-D1T1 is finish: 0/10
+
+2017-S-D1T2 is begin
+2017-S-D1T2 is finish: 0/10
+
+2017-S-D1T3 is begin
+2017-S-D1T3 is finish: 0/10
+
+2017-S-D2T1 is begin
+2017-S-D2T1 is finish: 0/10
+
+2017-S-D2T2 is begin
+2017-S-D2T2 is finish: 0/10
+
+2017-S-D2T3 is begin
+2017-S-D2T3 is finish: 0/10

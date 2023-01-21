@@ -1,0 +1,40 @@
+
+2019-J-T1 is begin
+g++success
+2019-J-T1 is finish: 10/10
+
+2019-J-T2 is begin
+g++success
+2019-J-T2 is finish: 0/10
+
+2019-J-T3 is begin
+g++success
+2019-J-T3 is finish: 0/10
+
+2019-J-T4 is begin
+g++success
+2019-J-T4 is finish: 1/10
+
+2019-S-D1T1 is begin
+g++success
+2019-S-D1T1 is finish: 0/10
+
+2019-S-D1T2 is begin
+g++success
+2019-S-D1T2 is finish: 0/10
+
+2019-S-D1T3 is begin
+g++success
+2019-S-D1T3 is finish: 0/10
+
+2019-S-D2T1 is begin
+g++success
+2019-S-D2T1 is finish: 1/10
+
+2019-S-D2T2 is begin
+g++success
+2019-S-D2T2 is finish: 1/10
+
+2019-S-D2T3 is begin
+g++success
+2019-S-D2T3 is finish: 0/10
